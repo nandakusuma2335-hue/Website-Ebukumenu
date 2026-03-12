@@ -114,10 +114,10 @@ http://localhost/ebukumenu/login.php
 ## Login Sistem
 sistem memiliki dua akun admin yang dapat digunakan untuk login:
 
-Username: Nankus
+Username: Nankus <br>
 Password: 123456
 
-Username: sugik
+Username: sugik<br>
 Password: 123456
 
 ---
