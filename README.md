@@ -1,1 +1,1 @@
-test isi
+test isi![alt text](assets/img/banner.jpg)
