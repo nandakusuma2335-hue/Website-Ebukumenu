@@ -214,6 +214,38 @@ Hal ini bertujuan agar kode lebih modular dan mudah dikembangkan di masa depan.
 ### Halaman Login Admin
 ![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-11 152704.png>)
 
+### Halaman Beranda Admin
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 111106.png>)
+
+### Halaman User Admin
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 112426.png>)
+
+### Halaman Tambah Users Admin
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 112444.png>)
+
+### Halaman Edit Users Admin
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 112457.png>)
+
+### Halaman Produk 
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 112732.png>)
+
+### Halaman Tambah Produk
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 112741.png>)
+
+### Halaman Edit Produk
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 112801.png>)
+
+### Halaman QR Code
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 112943.png>)
+
+### Halaman Tambah QR Code
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 112956.png>)
+
+### Halaman Detail QR Code
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 113015.png>)
+
+
+
 
 
 ## Author
