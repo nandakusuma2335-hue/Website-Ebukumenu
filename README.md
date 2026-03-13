@@ -1,8 +1,8 @@
-# E-Buku Menu - QR Code Menu System
+# Menu - QR Code Menu System Tantri Resto
 
 ## Deskripsi Project
 
-E-Buku Menu adalah aplikasi berbasis web yang digunakan untuk menampilkan daftar menu makanan dan minuman secara digital menggunakan QR Code. Sistem ini memungkinkan pelanggan untuk melihat menu hanya dengan melakukan scan QR Code tanpa perlu menggunakan buku menu fisik.
+ Menu Tantri Resto adalah aplikasi berbasis web yang digunakan untuk menampilkan daftar menu makanan dan minuman secara digital menggunakan QR Code. Sistem ini memungkinkan pelanggan untuk melihat menu hanya dengan melakukan scan QR Code tanpa perlu menggunakan buku menu fisik.
 
 Selain itu, sistem ini menyediakan halaman admin yang memungkinkan pengelola untuk mengatur data produk, extra menu, QR Code, dan data pengguna secara mudah melalui panel admin.
 
@@ -134,8 +134,90 @@ Project ini dibuat sebagai tugas implementasi pemrograman web yang menerapkan be
 * Penerapan namespace dan interface dalam pemrograman PHP
 
 ---
+## Konsep Pemrograman yang Digunakan
+
+Project Menu QR Code System Tantri Resto ini dikembangkan dengan menerapkan beberapa konsep pemrograman dalam pengembangan perangkat lunak, yaitu:
+
+### 1. Object Oriented Programming (OOP)
+
+Sistem ini menggunakan konsep OOP pada bahasa PHP untuk membuat struktur program yang lebih terorganisir dan mudah dikembangkan. Beberapa konsep OOP yang digunakan antara lain:
+
+* **Class dan Object**
+  Digunakan untuk merepresentasikan entitas dalam sistem seperti produk.
+
+* **Inheritance**
+  Class turunan dibuat dari class dasar untuk mewarisi fungsi dan properti yang sama.
+
+* **Polymorphism**
+  Method dapat digunakan kembali dengan implementasi yang berbeda.
+
+* **Interface**
+  Digunakan untuk mendefinisikan method yang harus diimplementasikan oleh class tertentu, contohnya pada `CrudInterface.php`.
+
+---
+
+### 2. CRUD (Create, Read, Update, Delete)
+
+Sistem ini menerapkan operasi CRUD untuk mengelola data dalam database, seperti:
+
+* Menambah data produk
+* Menampilkan data produk
+* Mengubah data produk
+* Menghapus data produk
+
+---
+
+### 3. Database Management
+
+Sistem menggunakan database MySQL untuk menyimpan dan mengelola data seperti:
+
+* Data user
+* Data produk
+* Data QR Code
+* Data extra menu
+
+Koneksi antara aplikasi PHP dan database dilakukan menggunakan fungsi `mysqli`.
+
+---
+
+### 4. Struktur Kontrol Program
+
+Program menggunakan struktur kontrol dasar dalam pemrograman seperti:
+
+* **Percabangan (if / else)** untuk menentukan kondisi tertentu dalam program
+* **Perulangan (while / for)** untuk menampilkan data dari database secara berulang
+
+---
+
+### 5. Penggunaan Library Eksternal
+
+Project ini memanfaatkan library eksternal untuk meningkatkan tampilan antarmuka pengguna, yaitu:
+
+* **Font Awesome** untuk menampilkan ikon pada halaman admin.
+
+---
+
+### 6. Namespace dan Struktur Folder
+
+Project disusun menggunakan struktur folder yang terorganisir serta menerapkan **namespace** untuk memisahkan bagian program seperti:
+
+* `app/models`
+* `app/services`
+* `app/interfaces`
+
+Hal ini bertujuan agar kode lebih modular dan mudah dikembangkan di masa depan.
+
+---
+
+## Dokumentasi Interface Menu Qr Code Sistem Tantri Resto
+
+### Halaman Login Admin
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-11 152704.png>)
+
+
 
 ## Author
 
-Nama : I Kadek Nanda Kusuma
-Project : E-Buku Menu QR Code System
+Nama : I Kadek Nanda Kusuma <br>
+Project : Menu QR Code System Tantri Resto <br>
+Skema Sertifikasi : Programmer
