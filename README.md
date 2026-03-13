@@ -1,4 +1,4 @@
-# Menu - QR Code Menu System Tantri Resto
+# Menu - QR Code Tantri Resto
 
 ## Deskripsi Project
 
@@ -244,6 +244,17 @@ Hal ini bertujuan agar kode lebih modular dan mudah dikembangkan di masa depan.
 ### Halaman Detail QR Code
 ![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 113015.png>)
 
+### Halaman Beranda Pelanggan
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 114358.png>)
+
+### Halaman Kategori Makanan
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 114501.png>)
+
+### Halaman Kategori Minuman
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 114520.png>)
+
+### Halaman Detail Menu 
+![alt text](<assets/img/Dokumentasi/Screenshot 2026-03-13 114610.png>)
 
 
 
